@@ -36,8 +36,7 @@
   <ItemGroup>
     <Compile Include="consoleview.cs" />
     <Compile Include="mainmenu.cs" />
-    <Compile Include="listmanagement.cs" />
-    <Compile Include="List.cs" />
+    <Compile Include="listmanagement.cs" />    
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
